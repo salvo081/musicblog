@@ -1,5 +1,16 @@
 .OneBlog {
-  display: flex;
+  position: relative;
+  /* display: flex;
   padding: 1em;
-  border: solid 1px blue;
+  border: solid 1px blue; */
+  height: 25rem;
+  width: 100%;
+}
+
+.wrapper01 {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
 }
